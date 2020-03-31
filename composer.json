@@ -1,5 +1,5 @@
 {
-  "name": " uicklv /\nGeoAdapter ",
+  "name": "uicklv /\ngeoadapter",
   "description": "MaxMind Adapter",
   "autoload": {
     "psr-4": {
