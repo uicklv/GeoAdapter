@@ -4,8 +4,8 @@
   "autoload": {
     "psr-4": {
       "App\\Lib\\": "src/",
-      "GeoIp2\\Database\\": "geoip2/geoip2/src/Database",
-      "GeoIp2\\Exception\\": "geoip2/geoip2/src/exception"
+      "GeoIp2\\Database\\": "geoip2/geoip2/src/Database/",
+      "GeoIp2\\Exception\\": "geoip2/geoip2/src/exception/"
     }
   }
 }
