@@ -3,11 +3,10 @@
 
 namespace App\Lib;
 
-
 use GeoIp2\Database\Reader;
 use GeoIp2\Exception\AddressNotFoundException;
 
-class MaxmindAdapter
+class MaxmindAdapter implements \App\AdapterInterface
 {
 
     protected  $reader;
