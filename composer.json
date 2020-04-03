@@ -9,12 +9,12 @@
     }
   },
   "require": {
-    "uicklv/geiinterface": "dev-master"
+    "uicklv/geointerface": "dev-master"
   },
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/uicklv/geiinterface"
+      "url": "https://github.com/uicklv/geointerface"
     }
   ]
 
