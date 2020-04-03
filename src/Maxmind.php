@@ -6,7 +6,7 @@ namespace App\Lib;
 use GeoIp2\Database\Reader;
 use GeoIp2\Exception\AddressNotFoundException;
 
-class MaxmindAdapter implements \App\AdapterInterface
+class MaxmindAdapter implements AdapterInterface
 {
 
     protected  $reader;
