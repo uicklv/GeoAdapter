@@ -7,16 +7,5 @@
       "GeoIp2\\Database\\": "geoip2/geoip2/src/Database/",
       "GeoIp2\\Exception\\": "geoip2/geoip2/src/exception/"
     }
-  },
-  "require": {
-    "uicklv/geointerface": "dev-master"
-  },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/uicklv/geointerface"
-    }
-  ]
-
-
+  }
 }
